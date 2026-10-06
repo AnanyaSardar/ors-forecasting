@@ -1,0 +1,10 @@
+{
+    "date_column": "date",
+    "product_column": "product",
+    "region_column": "region",
+    "target_column": "units",
+    "horizon_weeks": 4,
+    "test_weeks": 52,
+    "weather_file": "data/weather_daily.csv",
+    "min_weeks": 104
+}

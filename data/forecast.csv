@@ -1,0 +1,5 @@
+product,region,date,forecast,stock_to_keep,model
+ORS,Pune,2026-01-04,551,606,prophet
+ORS,Pune,2026-01-11,552,607,prophet
+ORS,Pune,2026-01-18,534,588,prophet
+ORS,Pune,2026-01-25,529,582,prophet
