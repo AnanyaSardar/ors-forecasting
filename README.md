@@ -67,4 +67,3 @@ On a deliberately messy version of the same data (gaps, 40 duplicate rows, a neg
 - `scripts/`: how the demo data was made (weather download, synthetic demand, messy test file) and my earlier model experiments
 - `data/`: demo data and pipeline outputs
 - `charts/`: plots
-
