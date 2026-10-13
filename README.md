@@ -68,6 +68,3 @@ On a deliberately messy version of the same data (gaps, 40 duplicate rows, a neg
 - `data/`: demo data and pipeline outputs
 - `charts/`: plots
 
-## Notes
-
-Built while learning forecasting (following *Forecasting: Principles and Practice, the Pythonic Way*), with AI help for the code.
